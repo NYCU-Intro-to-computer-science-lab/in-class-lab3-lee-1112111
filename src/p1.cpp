@@ -1,6 +1,6 @@
 // 題目 1：高塔建築師 (The Tower Architect) - 20分
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 long long factorial(int n, int t) {
