@@ -1,6 +1,6 @@
 // 題目 2：完美鋪磚計畫 (The Perfect Tiling Project) - 20分
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int gcd(int a, int b) {
